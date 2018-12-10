@@ -1,0 +1,22 @@
+html {
+  /* Positioning */
+  position: relative;
+
+  /* Box-model */
+  min-height: 100%;
+}
+
+.nav {
+  float: right;
+}
+
+#about-image {
+  float: left;
+  margin: 10px;
+}
+
+.block {
+  background-color: #fff;
+  padding: 30px;
+  margin-bottom: 30px;
+}
