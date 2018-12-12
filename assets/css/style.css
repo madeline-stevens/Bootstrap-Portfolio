@@ -6,6 +6,10 @@ html {
   min-height: 100%;
 }
 
+body {
+  background: red !important;
+}
+
 .nav {
   float: right;
 }
@@ -16,7 +20,7 @@ html {
 }
 
 .block {
-  background-color: #fff;
+  background-color: yellow;
   padding: 30px;
   margin-bottom: 30px;
 }
